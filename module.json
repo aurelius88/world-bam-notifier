@@ -1,11 +1,11 @@
 {
-    "disableAutoUpdate": false,
 	"name": "world-bam-notifier",
-	"author": "teralove",
+	"author": "aurelius88 / teralove",
 	"description": "Notifies you when a world bam is close by.",
 	"options": {
 		"niceName": "World Bam Notifier"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/world-bam-notifier/master/"],
-    "supportUrl": "https://github.com/teralove/world-bam-notifier/issues"
+    "version": "1.1.0",
+    "servers": ["https://raw.githubusercontent.com/aurelius88/world-bam-notifier/master/"],
+    "supportUrl": "https://github.com/aurelius88/world-bam-notifier/issues"
 }

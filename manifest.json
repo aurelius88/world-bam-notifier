@@ -1,5 +1,6 @@
 {
-	"files": {
-		"index.js": "95c9a77344e27e2da149961e0cf388cef3f490dd1f7750e0a21e3cb8567013c9"
-	}
+  "files": {
+    "index.js": "8cdc4dfae525a994d31c8e86f0838dabc5c48eec2de311dd0e4735717e7e438b",
+    "module.json": "fce2139f95d1d6262a853955eadc15a9b1c8f6cf3906a44bb96cdfca368100b5"
+  }
 }
